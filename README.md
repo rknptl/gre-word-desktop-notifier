@@ -1,1 +1,0 @@
-# gre-word-desktop-notifier
